@@ -89,6 +89,9 @@ LRUCache.prototype.put = function (key, value) {
   } else if (this.cache.size >= this.capacity) {
     // 不存在即加入
     // 缓存超过最大值，则移除最近没有使用的
+
+    // this.cache.keys() 返回一个迭代器对象
+    // this.cache,keys().next().value其实是键值
     this.cache.delete(this.cache.keys().next().value);
   }
   this.cache.set(key, value);
