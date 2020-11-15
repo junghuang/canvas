@@ -48,7 +48,7 @@
 
   // 还需要两步
 // 如果k>0即未删除完，从尾部继续
-// 去除前面无效的0
+// 去除无效的0
 
 var removeKdigits = function(num, k) {
   let stack = []
