@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b0759cc-7bf5-43ca-ae8d-c13a26caaa8d" name="Default Changelist" comment="" />
+    <list default="true" id="7b0759cc-7bf5-43ca-ae8d-c13a26caaa8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,12 +57,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.1030.js">
+    <configuration name="1030.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20201109/1030.js" working-dir="$PROJECT_DIR$/20201109">
+      <method v="2" />
+    </configuration>
     <configuration name="885.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20201109/885.js" working-dir="$PROJECT_DIR$/20201109">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.1030.js" />
         <item itemvalue="Node.js.885.js" />
       </list>
     </recent_temporary>
@@ -82,6 +88,8 @@
       <workItem from="1605317880578" duration="151000" />
       <workItem from="1605406784095" duration="4151000" />
       <workItem from="1605418487404" duration="360000" />
+      <workItem from="1605495505838" duration="1062000" />
+      <workItem from="1605576477626" duration="690000" />
     </task>
     <servers />
   </component>
