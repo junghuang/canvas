@@ -24,3 +24,16 @@ var allCellsDistOrder = function(R, C, r0, c0) {
 // test
 console.log(allCellsDistOrder(2, 3, 1, 2));
 
+
+// 更简洁一点
+var allCellsDistOrder = function(R, C, r0, c0) {
+  let arr = [];
+  for(let r = 0; r< R;r++){
+    for(let c = 0; c < C; c++){
+      arr.push([r, c, Math.abs(r - r0) + Math.abs(c - c0)])
+    }
+  }
+  arr.sort((a, b) => a[2] - b[2])
+  return arr.map(item => ([item[0], item[1]]))
+};
+
