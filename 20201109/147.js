@@ -50,9 +50,10 @@ function insertionSortList(head) {
       cur.next = cur.next.next;
 
       prev = dummyHead;
-      while (prev.next.val <= temp.val) {
+      while (prev.next.val <= temp.val) {// 找temp插入的位置，第一个大于temp.val的值的前面
         prev = prev.next;
       }
+      // 做插入，先连后链，再连前链
       temp.next = prev.next;
       prev.next = temp;
     }
