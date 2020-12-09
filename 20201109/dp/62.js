@@ -46,14 +46,14 @@ var uniquePaths = function (m, n) {
 // 因此路径的总数，就等于从 m+n−2 次移动中选择 m−1 次向下移动的方案数，即组合数：
 
 // 组合法
-var uniquePaths = function (m, n) {
-  var N = n + m - 2;
-  var k = m - 1;
-  var result = 1;
-  for (var i = 1; i <= k; i++) {
-    result = result * (N - k + i) / i;
-  }
-  return result;
-};
+// var uniquePaths = function (m, n) {
+//   const N = n + m - 2;
+//   const k = m - 1;
+//   let result = 1;
+//   for (let i = 1; i <= k; i++) {
+//     result = result * (N - k + i) / i;
+//   }
+//   return result;
+// };
 
 
