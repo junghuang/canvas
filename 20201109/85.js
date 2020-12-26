@@ -65,4 +65,3 @@ var maximalRectangle = function(matrix) {
 };
 
 
-
