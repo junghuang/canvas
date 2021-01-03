@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b0759cc-7bf5-43ca-ae8d-c13a26caaa8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20201109/239.js" beforeDir="false" afterPath="$PROJECT_DIR$/20201109/239.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Node.js.605.js">
+  <component name="RunManager" selected="Node.js.86.js">
     <configuration name="1060.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20201109/1060.js" working-dir="$PROJECT_DIR$/20201109">
       <method v="2" />
     </configuration>
@@ -72,19 +72,19 @@
     <configuration name="605.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20201109/605.js" working-dir="$PROJECT_DIR$/20201109">
       <method v="2" />
     </configuration>
-    <configuration name="714.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/714.js" working-dir="$PROJECT_DIR$">
+    <configuration name="746.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/746.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="746.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/746.js" working-dir="$PROJECT_DIR$">
+    <configuration name="86.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/20201109/86.js" working-dir="$PROJECT_DIR$/20201109">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.86.js" />
         <item itemvalue="Node.js.605.js" />
         <item itemvalue="Node.js.435.js" />
         <item itemvalue="Node.js.1060.js" />
         <item itemvalue="Node.js.746.js" />
-        <item itemvalue="Node.js.714.js" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,7 @@
       <workItem from="1609333376273" duration="228000" />
       <workItem from="1609401145227" duration="2287000" />
       <workItem from="1609469203010" duration="926000" />
-      <workItem from="1609599597584" duration="349000" />
+      <workItem from="1609599597584" duration="1343000" />
     </task>
     <servers />
   </component>
